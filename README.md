@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 💡 I'm experimenting with new ideas through personal projects.<br>- 🤝 I'm open to collaborating with others who are building cool and meaningful things.<br>- 🚀 I'm currently diving into DevOps, AI agents, and modern frontend frameworks like React.<br>- 👻 In my free time, I enjoy watching horror game content, an addictive mix of fear, tension, and fascination.</p>
+<p align="left">- 💡 I'm experimenting with new ideas through personal projects.<br>- 🤝 I'm open to collaborating with others who are building cool and meaningful things.<br>- 🚀 I’m currently focused on AI agents, LLM orchestration, and building scalable frontend systems with React and Next.js.<br>- 🧶 Offline, I enjoy the creative flow of crochet and fiber arts.</p>
 
 ###
 
